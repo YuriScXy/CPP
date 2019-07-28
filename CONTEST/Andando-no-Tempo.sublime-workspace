@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a3"
+			],
+			[
+				"c",
+				"cA"
+			],
+			[
+				"time",
+				"time1"
+			],
+			[
+				"x",
+				"Xer"
+			],
+			[
+				"M",
+				"Mlistas"
+			],
+			[
+				"Alt",
+				"alterar"
+			],
+			[
+				"cont",
+				"cont"
+			],
+			[
+				"Alu",
+				"AlunoCad"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"re",
+				"retry"
+			],
+			[
+				"MEn",
+				"MenuList"
+			],
+			[
+				"me",
+				"Menu"
+			],
+			[
+				"Aluno",
+				"AlunoCad"
+			],
+			[
+				"Al",
+				"AlunoCad"
+			],
+			[
+				"string",
+				"string\tstandard header"
+			],
+			[
+				"au",
+				"aux"
+			],
+			[
+				"aux",
+				"auxStr2"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"p",
+				"printf\tprintf …"
+			],
+			[
+				"n",
+				"n2"
+			],
+			[
+				"s",
+				"scanf"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"co",
+				"cont"
+			],
+			[
+				"q",
+				"q4"
+			],
+			[
+				"j",
+				"j2"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"m",
+				"Min"
+			],
+			[
+				"min",
+				"Min"
+			],
+			[
+				"v",
+				"verificadorLinha"
+			],
+			[
+				"ve",
+				"verificadorColuna"
+			],
+			[
+				"ver",
+				"verificador"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"sti",
+				"string.h\tstandard header"
+			],
+			[
+				"priec",
+				"priceFix"
+			],
+			[
+				"price",
+				"priceMny"
+			],
+			[
+				"pri",
+				"priceFix"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"som",
+				"somaTT"
+			],
+			[
+				"d",
+				"DcmParaBin"
+			],
+			[
+				"in",
+				"contInterConj"
+			],
+			[
+				"int",
+				"InterConj"
+			],
+			[
+				"bo",
+				"bronze"
+			],
+			[
+				"res",
+				"rest1"
+			],
+			[
+				"mu",
+				"multi2"
+			],
+			[
+				"si",
+				"sizMen"
+			],
+			[
+				"b",
+				"b1"
+			],
+			[
+				"rt",
+				"rt1"
+			],
+			[
+				"soma",
+				"soma"
+			],
+			[
+				"I",
+				"if"
+			],
+			[
+				"en",
+				"endl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"themes",
+				"Material Theme: Extras"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 65.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Yuri Casa/Documents/CPP/CONTEST/Andando-no-Tempo.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/CONTEST/Escolha-Dificil.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/CONTEST/Caxinha-de-palitos.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/CONTEST/Chocolate-em-Barra.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/CONTEST/Dario-e-Xerxes.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/BRINCADEIRAS/incentivo",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/BRINCADEIRAS/1.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/testes.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/trabalho2.h",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/1.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/function.h",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/TopBiblio.h",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/Consulta.h",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/structs.h",
+		"/C/Users/Yuri Casa/Documents/DANA/dana.exe",
+		"/C/Users/Yuri Casa/Downloads/dana.exe",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/6.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/5.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/4.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/3.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/2.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/boblle.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/16.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/ARQUIVOS/1.exe",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/3.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/2.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/1.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/1.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/ExcRepet.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/17.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/18.cpp",
+		"/E/TRABALHO 2019/EBOOK-FREE/153193475715_Receitas_Low-Carb_Que_Custam_Menos_Que_10_Reais_-_Senhor_Tanquinho.pdf",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/19.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/20.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/11.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/21.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/MATRIZ/22.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/EXTRA/6.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/TRABALHO_FINAL/dados.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/TRABALHO_FINAL/dado.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/aula1.c",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/musc.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/EXTRA/5.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/EXTRA/4.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/EXTRA/3.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/EXTRA/2.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRUCT/EXTRA/1.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/26.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/28.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/27.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/15.cpp",
+		"/C/Users/Yuri Casa/Documents/PHYTON/1.py",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/25.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/21.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/10.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/7.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/5.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/8.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/uniaoCnj.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/interCnj.cpp",
+		"/C/Users/Yuri Casa/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Yuri Casa/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/8.txt",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/23.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/22.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/18.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/17.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/leitorDeElementosUnicos.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/interCnj.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/11.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/19.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/20.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/29.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/quick.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/radix.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/Nova pasta/count.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/19",
+		"/C/Users/Yuri Casa/Documents/CPP/STRUCT/2.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRUCT/1.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/ORDENAÇÂ/2.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/16.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/ORDENAÇÂ/1.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/15.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/Combinador.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/STRING/comb.exe",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/7.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/13.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/7",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/14.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/12.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/11.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/10.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/9.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/8.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/6.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/5.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/4.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/3.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/2.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/MATRIZ/1.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/Titulo.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/Overflow.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/Operações.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/Huaauhahhuahau.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/5.cpp",
+		"/C/Users/Yuri Casa/Documents/FACULDADE/VETORES/13.c",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/REC/2.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/REC/1.cpp",
+		"/E/YURI/GIT-REPOSIT/local/CPP/Código (OBI 2015).cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/NEOS/3.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/NEOS/2.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/1.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/2.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/3.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/4.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/funcao/6.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/4.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/3.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/2.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/STRING/1.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Overflow.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Operações.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Soma Fácil.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Consecutivos.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Raízes.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Lâmpadas.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/te.cpp",
+		"/C/Users/Yuri Casa/Documents/CPP/Todos os Divisores.cpp"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Andando-no-Tempo.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
